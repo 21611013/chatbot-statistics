@@ -3,4 +3,4 @@ crewai
 langchain_openai
 streamlit
 openai
-sqlite3
+sqlite
